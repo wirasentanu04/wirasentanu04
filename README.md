@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Wira Sentanu</h1>
+<h3 align="center">Web Developer | Laravel Enthusiast | Tech Learner</h3>
 
-<!--
-**wirasentanu04/wirasentanu04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wirasentanu04&label=Profile%20Views&color=0e75b6&style=flat" alt="wirasentanu04" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🔭 Currently working on **Web-based Information Systems**
+- 🌱 Currently learning **Laravel Framework**
+- 👯 Open to collaborate on **Web & Mobile Projects**
+- 🤔 Interested in **Backend, API, and System Design**
+- 💬 Ask me about **Laravel, PHP, Flutter, Firebase**
+- 📫 Reach me at: **(isi email / IG / LinkedIn kamu)**
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: *I love building real-world apps for villages & public services* 😄
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,html,css,js,bootstrap,tailwind,mysql,firebase,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wirasentanu04&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=wirasentanu04&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirasentanu04&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wirasentanu04/wirasentanu04/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://instagram.com/USERNAME_KAMU" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/wirasentanu04" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, don’t forget to star my repositories!**
