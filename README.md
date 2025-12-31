@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wira Sentanu</h1>
+<h1 align="center">Hiii! 👋, I'm Wira Sentanu</h1>
 
 ![Wira Sentanu](img/github-header-banner.png)
 
@@ -8,20 +8,18 @@
 - 🌱 Currently learning **Laravel Framework**
 - 👯 Open to collaborate on **Web & Mobile Projects**
 - 🤔 Interested in **Backend, API, and System Design**
-- 💬 Ask me about **Laravel, PHP, Flutter, Firebase**
+- 💬 Ask me about **Laravel, React, PHP, Flutter, Firebase**
 - 📫 Reach me at: **(isi email / IG / LinkedIn kamu)**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I love building real-world apps for villages & public services* 😄
 
----
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,html,css,js,bootstrap,tailwind,mysql,firebase,git,github" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,html,css,js,bootstrap,tailwind,mysql,firebase,git,github,react" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -34,15 +32,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirasentanu04&layout=compact&theme=tokyonight" />
 </p>
 
----
-
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wirasentanu04/wirasentanu04/output/snake.svg" alt="snake animation" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -58,6 +53,5 @@
   </a>
 </p>
 
----
 
 ⭐ **If you like my work, don’t forget to star my repositories!**
