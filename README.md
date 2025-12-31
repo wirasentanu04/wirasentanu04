@@ -13,31 +13,39 @@
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: *I love building real-world apps for villages & public services* 😄
 
-
 ## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=php,laravel,flutter,dart,html,css,js,bootstrap,tailwind,mysql,firebase,git,github,react" />
 </p>
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=wirasentanu04&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=wirasentanu04&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=wirasentanu04&show_icons=true&theme=tokyonight&cache_seconds=1800"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirasentanu04&layout=compact&theme=tokyonight" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=wirasentanu04&theme=tokyonight"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wirasentanu04&layout=compact&theme=tokyonight"
+  />
 </p>
 
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wirasentanu04/wirasentanu04/output/snake.svg" alt="snake animation" />
+  <img
+    src="https://raw.githubusercontent.com/wirasentanu04/wirasentanu04/output/snake.svg"
+  />
 </p>
-
 
 ## 🌐 Connect With Me
 
@@ -52,6 +60,5 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
-
 
 ⭐ **If you like my work, don’t forget to star my repositories!**
