@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Wira Sentanu</h1>
 <h3 align="center">Web Developer | Laravel Enthusiast | Tech Learner</h3>
 
+![Wira Sentanu](img/github-header-banner.png)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wirasentanu04&label=Profile%20Views&color=0e75b6&style=flat" alt="wirasentanu04" />
 </p>
