@@ -2,12 +2,6 @@
 
 ![Wira Sentanu](img/github-header-banner.png)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wirasentanu04&label=Profile%20Views&color=0e75b6&style=flat" alt="wirasentanu04" />
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on **Web-based Information Systems**
