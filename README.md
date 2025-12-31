@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Wira Sentanu</h1>
-<h3 align="center">Web Developer | Laravel Enthusiast | Tech Learner</h3>
 
 ![Wira Sentanu](img/github-header-banner.png)
 
